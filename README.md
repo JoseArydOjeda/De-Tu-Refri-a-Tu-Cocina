@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<html>
+<head>
+  <title>De tu refri a tu cocina</title>
+</head>
 <body>
 <H1>De-Tu-Refri-a-Tu-Cocina</H1>
 
