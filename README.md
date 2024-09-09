@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>De tu refri a tu cocina</title>
+  <tittle>De tu refri a tu cocina</tittle>
 </head>
 <body>
 <H1>De-Tu-Refri-a-Tu-Cocina</H1>
