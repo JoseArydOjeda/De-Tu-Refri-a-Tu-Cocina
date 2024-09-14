@@ -52,6 +52,12 @@ c. Aviso de privacidad.
 <br/>
 d. Acerca del sitio. (Créditos a los autores)
 <br/>
+<H2> RF-04 </H2>
+<p> Si el visitante selecciona la opción recetas ingresará a la aplicación. </p>
+<br />
+<H2> RF-05 </H2>
+<p> En la parte superior aparecerá un filtro, para que el visitante pueda escribir el nombre de alguno de los ingredientes de la receta que es de su interés. </p>
+<br />
 
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
@@ -59,6 +65,9 @@ Las recetas deberán salir en menos de 3 segundos
 <H2>  RNF-02 </H2>
 Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que pruebe el producto
 <br/>
+<H2> RNF-03 </H2>
+<p> El producto estará disponible el 99.9% de las veces. </p>
+<br />
 
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
 Las recetas no tendrán imágenes.
