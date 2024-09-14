@@ -37,9 +37,25 @@ Al llegar  a la página se presentará una página de bienvenida.
  </H2> RF-02 </H2>
 En la página aparecerán las 5 recetas más solicitadas y las instrucciones de uso del sitio
 <br/>
+ </H2> RF-03 </H2>
+ En la parte superior tendremos las opciones. 
+ <br>
+a. Home (para regresar al principio)
+<br>
+b. Recetas (Para ingresar a la aplicación)
+<br>
+c. Aviso de privacidad.
+<br>
+d. Acerca del sitio. (Créditos a los autores)
+<br/>
+
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
 <br/>
+<H2>  RNF-02 </H2>
+Las recetas deberán salir en menos de 3 segundos 
+<br>
+
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
 Las recetas no tendrán imágenes.
 El prototipo no tendrá seguridad
