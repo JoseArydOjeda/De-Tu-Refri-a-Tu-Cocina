@@ -16,17 +16,17 @@
   <a href="Link del apartado"> Frijol con puerco </a>
  <br/>
 
-Mi-branch
-Sistema de Recetas en línea.
-Versión: Prototipo.
-Descripción:
+Mi-branch <br/>
+Sistema de Recetas en línea. <br/>
+Versión: Prototipo. <br/>
+Descripción: <br/>
 Se solicita un sitio web donde los visitantes puedan interactuar con un motor de búsqueda. 
   El sitio debe ofrecer 4 funcionalidades básicas: 
   <br/>
-Buscar recetas por ingredientes.
-Crear nuevas recetas.
-Modificar recetas existentes.
-Eliminar recetas.
+Buscar recetas por ingredientes. <br/>
+Crear nuevas recetas. <br/>
+Modificar recetas existentes. <br/>
+Eliminar recetas. <br/>
 <br/>  
 
 Cuando se use el filtro para buscar una receta usando ingredientes, el sistema debe ser capaz de presentar todas las recetas que contengan este ingrediente. 
@@ -35,11 +35,11 @@ seguir deben aparecer en un página independiente.
 
 <br/> 
 
-</H2> RF-01  </H2>
+<H2> RF-01  </H2>
 Al llegar  a la página se presentará una página de bienvenida.
 <br/>  
 
- </H2> RF-02 </H2>
+ <H2> RF-02 </H2>
 En la página aparecerán las 5 recetas más solicitadas y las instrucciones de uso del sitio
 <br/>
 
