@@ -15,6 +15,7 @@
   <br />
   <a href="Link del apartado"> Frijol con puerco </a>
  <br/>
+
 Mi-branch
 Sistema de Recetas en línea.
 Versión: Prototipo.
@@ -27,19 +28,25 @@ Crear nuevas recetas.
 Modificar recetas existentes.
 Eliminar recetas.
 <br/>  
+
 Cuando se use el filtro para buscar una receta usando ingredientes, el sistema debe ser capaz de presentar todas las recetas que contengan este ingrediente. 
 Para simplificar la presentación solo se deben presentar el nombre de la receta y los ingredientes, los detalles o pasos a 
 seguir deben aparecer en un página independiente.
+
 <br/> 
+
 </H2> RF-01  </H2>
 Al llegar  a la página se presentará una página de bienvenida.
 <br/>  
+
  </H2> RF-02 </H2>
 En la página aparecerán las 5 recetas más solicitadas y las instrucciones de uso del sitio
 <br/>
+
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
 <br/>
+
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
 Las recetas no tendrán imágenes.
 El prototipo no tendrá seguridad
