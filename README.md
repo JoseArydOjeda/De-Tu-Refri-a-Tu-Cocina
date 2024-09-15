@@ -61,7 +61,7 @@ d. Acerca del sitio. (Créditos a los autores)
 <H2> RF-06 </H2>
 <p> Si el visitante da clic en el botón del filtro sin haber escrito algo en la casilla, el sistema presentará todas las recetas. </p>
 <br />
-<br /
+
 
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
