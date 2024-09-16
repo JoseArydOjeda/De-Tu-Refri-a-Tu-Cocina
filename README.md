@@ -78,6 +78,14 @@ d. Acerca del sitio. (Créditos a los autores)
 <h2> RF-10</h2>
 <p>En la parte inferior del filtro antes de hacer una consulta aparece un boton para agregar nuevas recetas.</p>
 <hr> <!--Salto de linea con un, nose como se le dice a esto, pero basicamente es un salto de linea con una linea que delimita donde ocurrio el salto de linea-->
+<h2>  RF -11 </h2>
+<br/>
+Cuando se presenten los resultados de la consulta, el bot[on aparecera debajo del listado.
+<br/>
+<h2> RF -12  </h2>
+<br/>
+Una receta debe tener Nombre, instrucciones de elaboración (pasos) e ingredientes.
+<br/>
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
 <br/>
@@ -95,8 +103,10 @@ Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que 
 <br />
 <h2> RNF-06</h2>
 <p>el codigo de todo el producto estara documentado y bien estructurado para futuras lecturas y actualizaciones</p>
-
-
+<br/>
+<H2> RNF-07 </H2>
+<br/>
+Todo será de fácil navegación para la facilitación del disfrute y uso de la página.
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
 Las recetas no tendrán imágenes.
 El prototipo no tendrá seguridad
