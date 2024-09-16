@@ -67,7 +67,17 @@ d. Acerca del sitio. (Créditos a los autores)
 <H2> RF-08 </H2>
 <p> La página deberá presentar la(s) receta(s) que contengan el ingrediente en una lista con nombre e ingredientes, sin las instrucciones. </p>
 <br />
-
+<h2> RF-09</h2>
+<p>En esa lista, a la derecha de cada recetea tendremos dos opciones: </p>}
+<ul>
+  <li>Ver detalle (para ver las instrucciones o los pasos de la elaboracion)</li>
+  <li>Editar (para poder modificar una receta)</li>
+  <li>Eliminar (para borrar una receta)</li>
+</ul>
+<br>
+<h2> RF-10</h2>
+<p>En la parte inferior del filtro antes de hacer una consulta aparece un boton para agregar nuevas recetas.</p>
+<hr> <!--Salto de linea con un, nose como se le dice a esto, pero basicamente es un salto de linea con una linea que delimita donde ocurrio el salto de linea-->
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
 <br/>
@@ -83,6 +93,8 @@ Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que 
 <H2> RNF-05 </H2>
 <p> La página será compatible con varios navegadores (brave,Chrome,Fox etc.). </p>
 <br />
+<h2> RNF-06</h2>
+<p>el codigo de todo el producto estara documentado y bien estructurado para futuras lecturas y actualizaciones</p>
 
 
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
