@@ -68,7 +68,7 @@ d. Acerca del sitio. (Créditos a los autores)
 <p> La página deberá presentar la(s) receta(s) que contengan el ingrediente en una lista con nombre e ingredientes, sin las instrucciones. </p>
 <br />
 <h2> RF-09</h2>
-<p>En esa lista, a la derecha de cada recetea tendremos dos opciones: </p>}
+<p>En esa lista, a la derecha de cada receta tendremos dos opciones: </p>
 <ul>
   <li>Ver detalle (para ver las instrucciones o los pasos de la elaboracion)</li>
   <li>Editar (para poder modificar una receta)</li>
